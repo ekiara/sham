@@ -1,0 +1,22 @@
+- dataset: edge-founders
+    name: edge-founders
+    title: List of Ubuntu Edge Founders
+    description: List of all contributors to the Ubuntu Edge Kickstarter that was done on IndieGogo.
+    notes: The page (http://www.ubuntu.com/2013/07/edge-founders) claims there were '16,790 named founders, but the actual names list shows over 18,478'
+    total names: 18478
+    files:
+        file:
+            filename: edge-founders
+            format: html
+            type: Source Document
+            notes: Unformatted
+        file:
+            filename: ubuntu-edge-founders
+            format: yaml 
+            type: Dataset
+            notes:
+    source: http://www.ubuntu.com/2013/07/edge-founders
+    retrieved: 20131009213247
+- dataset: baby-names-us-2000
+    name:
+    tiel:
