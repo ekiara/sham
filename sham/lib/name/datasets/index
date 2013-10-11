@@ -17,6 +17,42 @@
             notes:
     source: http://www.ubuntu.com/2013/07/edge-founders
     retrieved: 20131009213247
-- dataset: baby-names-us-2000
+    location: edge-founders
+- dataset: cmu
+    name: cmu
+    title: CMU dataet
+    description: CMU dataet
+    notes: 
+    total names: to be determined
+    files:
+        file:
+            filename: female.txt
+            format: unknown
+            type: Dataset
+            notes:
+        file:
+            filename: male.txt
+            format: unknown
+            type: Dataset
+            notes:
+        file:
+            filename: pet.txt
+            format:
+            type: Dataset
+            notes:
+        file:
+            filename: other.txt
+            format: unknown
+            type: Dataset
+            notes:
+        file:
+            filename: readme.txt
+            format: unknown
+            type: Dataset
+            notes:
+    source: http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/
+    retrieved: 20131011133516
+    location: datasets/cmu
+- dataset: other
     name:
-    tiel:
+    title:
