@@ -12,17 +12,18 @@
             notes: Unformatted
         file:
             filename: ubuntu-edge-founders
-            format: yaml 
+            format: yaml
             type: Dataset
             notes:
     source: http://www.ubuntu.com/2013/07/edge-founders
     retrieved: 20131009213247
     location: edge-founders
+
 - dataset: cmu
     name: cmu
     title: CMU dataet
     description: CMU dataet
-    notes: 
+    notes:
     total names: to be determined
     files:
         file:
@@ -53,6 +54,28 @@
     source: http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/
     retrieved: 20131011133516
     location: datasets/cmu
+
 - dataset: other
     name:
     title:
+
+- dataset: eastern-european 
+    name: eastern-european
+
+- dataset: irish
+    name: irish
+
+- dataset: south-east-asian
+    name: south-east-asian
+
+- dataset: hindu
+    name: hindu
+
+- dataset: chinese
+    name: chinese
+
+- dataset: british
+    name: british
+
+- dataset: french
+    name: french
